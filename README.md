@@ -1,2 +1,2 @@
 # biDirectionalChatProgram
-Simple Bidirectional Chat Program Using Python
+Simple Bidirectional Chat Program Using Python. Put your server IP in ip var odf client.
